@@ -90,16 +90,7 @@ namespace WebApplication1.Controllers
         }
 
 
-        public class Managercontroller : ControllerBase
-        {
-            static List<Manager> managers = new List<Manager>();
-            static List<Manager> emplmanagers = new List<EmpManager>();
-
-
-
-
-        
-        }
+      
     }
     }
 
